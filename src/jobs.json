@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Junior DevOps Engineer",
+    "company": "StartupX ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": "http://example.com"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "TechCorp ",
+    "remote": "US only",
+    "visa": true
+  }
+]
