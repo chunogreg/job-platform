@@ -1,16 +1,87 @@
 [
   {
-    "title": "Junior DevOps Engineer",
-    "company": "StartupX ",
+    "title": "Senior Professional Services, Forward Deployed Engineer",
+    "company": "GitLab",
     "remote": "worldwide",
     "visa": false,
-    "level": "junior",
-    "link": "http://example.com"
+    "level": "Senior",
+    "link": "https://job-boards.greenhouse.io/gitlab/jobs/8334735002?lever-origin=applied&lever-source=LINKEDIN"
   },
   {
-    "title": "Cloud Engineer",
-    "company": "TechCorp ",
-    "remote": "US only",
-    "visa": true
+    "title": "Software Engineer - App Stores",
+    "company": "Canonical ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://canonical.com/careers/3159992"
+  },
+
+  {
+    "title": "Containerization & Virtualisation Engineer",
+    "company": "Canonical ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://canonical.com/careers/5172247"
+  },
+  {
+    "title": "Software Support Engineer",
+    "company": "Canonical ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://canonical.com/careers/6635593"
+  },
+  {
+    "title": "Senior Backend Engineer, Gitlab Delivery - Runway",
+    "company": "GitLb",
+    "remote": "Canada, EMEA",
+    "visa": false,
+    "level": "Senior",
+    "link": "https://job-boards.greenhouse.io/gitlab/jobs/8324132002?lever-origin=applied&lever-source=LINKEDIN"
+  },
+
+  {
+    "title": "Senior Software Engineer (Python & AWS) (F/M/D)",
+    "company": "NavVis GmbH",
+    "remote": "Hybrid",
+    "visa": true,
+    "level": "Senior",
+    "link": "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101?gh_src=cl4wtj82teu&source=LinkedIn"
+  },
+
+  {
+    "title": "Software Engineer",
+    "company": "Acira Consultancy Pty Ltd",
+    "remote": "On-site",
+    "visa": true,
+    "level": "junior",
+    "link": "https://visasponsor.jobs/api/jobs/4a5a74549cbb4b4ea67c4b955103c56d/Software-Engineer"
+  },
+  {
+    "title": "Junior Salesforce Engineer (f/m/x)",
+    "company": "Bonial International GmbH - Berlin Germany",
+    "remote": "On-site",
+    "visa": true,
+    "level": "junior",
+    "link": "https://visasponsor.jobs/api/jobs/2a4d48bfffc94c27a897db54a131a07b/Junior-Salesforce-Engineer-(f-m-x)"
+  },
+
+  {
+    "title": "AI Engineer intern",
+    "company": "Arena -California, United States",
+    "remote": "On-site",
+    "visa": true,
+    "level": "junior",
+    "link": "https://visasponsor.jobs/api/jobs/45ef6d20e1bc48b388d90125453f6044/AI-Engineer-intern"
+  },
+
+  {
+    "title": "Software Engineer, Backend (London)",
+    "company": "Mistral AI",
+    "remote": "On-site",
+    "visa": true,
+    "level": "junior",
+    "link": "https://visasponsor.jobs/api/jobs/86d3c959ddd943c88b9ee0457b3ff56b/Software-Engineer-Backend-(London)"
   }
 ]
