@@ -41,3 +41,8 @@ input[type="checkbox"] {
 
   margin-left: 20px;
 }
+footer {
+  position: relative;
+  margin-top: 130px;
+  bottom: 0;
+}

@@ -68,13 +68,14 @@ const App = () => {
           </p>
         </div>
       ))}
-      <div>
+
+      <footer>
         <p>Last updated: March 2026</p>
         <p>
           Jobs are sourced from public listings and link directly to original
           application pages
         </p>
-      </div>
+      </footer>
     </>
   );
 };
