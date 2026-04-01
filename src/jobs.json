@@ -83,5 +83,53 @@
     "visa": true,
     "level": "junior",
     "link": "https://visasponsor.jobs/api/jobs/86d3c959ddd943c88b9ee0457b3ff56b/Software-Engineer-Backend-(London)"
+  },
+  {
+    "title": " Front-end Developer (Fresher) ",
+    "company": " hirex - India",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": "https://jaabz.com/jobs/189251-frontend-developer-fresher"
+  },
+  {
+    "title": " Full-Stack Software Engineer ",
+    "company": "hexa solutions ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": "https://jaabz.com/jobs/189808-software-developer"
+  },
+  {
+    "title": " Software Engineer ",
+    "company": " Pismo",
+    "remote": " India only",
+    "visa": true,
+    "level": "Mid-Senior level",
+    "link": "https://jaabz.com/jobs/189943-sr-sw-engineer-2-years-go-aws"
+  },
+  {
+    "title": " Software Engineer ",
+    "company": " Pismo",
+    "remote": " India only",
+    "visa": true,
+    "level": "Mid-Senior level",
+    "link": "https://jaabz.com/jobs/189943-sr-sw-engineer-2-years-go-aws"
+  },
+  {
+    "title": " Senior Software Engineer ",
+    "company": " sprint and partners",
+    "remote": " on-site",
+    "visa": true,
+    "level": "Mid-Senior level",
+    "link": "https://jaabz.com/jobs/189883-sr-product-engineer-fullstack-ai-savvy-b2c-millions-of-users-full-ownership-and-direct-product-impact-small-team-e100k-base-benefits-amsterdam-hybrid "
+  },
+  {
+    "title": "Senior Software Security Engineer",
+    "company": "Anthropic",
+    "remote": " on-site",
+    "visa": true,
+    "level": "Senior level",
+    "link": "https://visasponsor.jobs/api/jobs/4272cb928a354355a4e60e2ec81130d5/Senior-Software-Security-Engineer "
   }
 ]
