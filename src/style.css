@@ -9,10 +9,14 @@ body {
   background-color: rgb(213, 213, 218);
 }
 button {
+  display: flex;
   font-size: larger;
   height: 50px;
-  width: 130px;
-  margin-top: 30px;
+  width: 140px;
+  justify-content: center;
+  align-items: center;
+  color: rgb(95, 93, 90);
+  margin-left: 20px;
 }
 .boxes {
   display: flex;
@@ -21,19 +25,26 @@ button {
   justify-content: center;
   margin: 10px;
 }
-h2,
+h1 {
+  color: rgb(70, 68, 68);
+}
+
 div {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  text-align: left;
+
+  padding-top: 0px;
+  padding: 0px;
+  color: rgb(59, 58, 58);
 }
 h3,
 p,
 a {
   margin-left: 0px;
   margin-top: 3px;
+  padding-bottom: 0;
 }
 input[type="checkbox"] {
   height: 20px;
