@@ -103,7 +103,7 @@
   {
     "title": " Software Engineer ",
     "company": " Pismo",
-    "remote": " India only",
+    "remote": "India only",
     "visa": true,
     "level": "Mid-Senior level",
     "link": "https://jaabz.com/jobs/189943-sr-sw-engineer-2-years-go-aws"
@@ -119,7 +119,7 @@
   {
     "title": " Senior Software Engineer ",
     "company": " sprint and partners",
-    "remote": " on-site",
+    "remote": "on-site",
     "visa": true,
     "level": "Mid-Senior level",
     "link": "https://jaabz.com/jobs/189883-sr-product-engineer-fullstack-ai-savvy-b2c-millions-of-users-full-ownership-and-direct-product-impact-small-team-e100k-base-benefits-amsterdam-hybrid "
@@ -127,9 +127,92 @@
   {
     "title": "Senior Software Security Engineer",
     "company": "Anthropic",
-    "remote": " on-site",
+    "remote": "on-site",
     "visa": true,
     "level": "Senior level",
     "link": "https://visasponsor.jobs/api/jobs/4272cb928a354355a4e60e2ec81130d5/Senior-Software-Security-Engineer "
+  },
+  {
+    "title": " Backend Engineer ",
+    "company": " Keepsafe Software ",
+    "remote": "on-site",
+    "visa": true,
+    "level": "Associate",
+    "link": "https://visasponsor.jobs/api/jobs/78f3bb9506f044bc802ba0c539b4d28f/Backend-Engineer"
+  },
+  {
+    "title": " Junior Distributed Machine Learning Engineer ",
+    "company": " Jobright.ai ",
+    "remote": "on-site",
+    "visa": true,
+    "level": " junior",
+    "link": " https://visasponsor.jobs/api/jobs/cbe26fe3df1845fe9214cabdaf61bb2f/Junior-Distributed-Machine-Learning-Engineer "
+  },
+  {
+    "title": " MERN/MEAN Fullstack Developer ",
+    "company": "BeaconFire Inc.  ",
+    "remote": " on-site",
+    "visa": true,
+    "level": " junior",
+    "link": " https://visasponsor.jobs/api/jobs/52e5410047074110982aca16fc500ee0/MERN-MEAN-Fullst "
+  },
+  {
+    "title": " [Hiring] Network Administrator @Softheon  ",
+    "company": "@Softheon ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": "https://remotive.com/remote/jobs/devops/network-administrator-4224789  "
+  },
+  {
+    "title": " [Hiring] Windows System Administrator",
+    "company": " @Arlo Solutions LLC",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": " https://remotive.com/remote/jobs/devops/windows-system-administrator-4257258 "
+  },
+
+  {
+    "title": " Software Engineer - L3 Support",
+    "company": "Canonical - Jobs Logo ",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "junior",
+    "link": "https://job-boards.greenhouse.io/canonicaljobs/jobs/7640490?gh_src=8uoc8wrm1us  "
+  },
+  {
+    "title": "Demo Architect ",
+    "company": " GitLab",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://job-boards.greenhouse.io/gitlab/jobs/8461096002?lever-origin=applied&lever-source=LINKEDIN "
+  },
+
+  {
+    "title": " Support Engineer, U.S. Government Support ",
+    "company": " GitLab",
+    "remote": "worldwide",
+    "visa": false,
+    "level": "mid-level",
+    "link": " https://job-boards.greenhouse.io/gitlab/jobs/8389856002?lever-origin=applied&lever-source=LINKEDIN "
+  },
+  {
+    "title": "Devops Engineer Annotator ",
+    "company": "N/A",
+    "remote": "Africa",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://odixcity1.snaphunt.com/job/BRUVWON73T-NG-144?source=linkedin"
+  },
+
+  {
+    "title": "Infrastructure Engineer (Data) ",
+    "company": "telnyx ",
+    "remote": "Nigeria",
+    "visa": false,
+    "level": "mid-level",
+    "link": "https://job-boards.greenhouse.io/telnyx54/jobs/6235941003/confirmation "
   }
 ]
